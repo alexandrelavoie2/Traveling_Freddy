@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a12879f6a86b7484f8f04721d0fa7983
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - currentTimeText: {instanceID: 0}
+  - WinScene: {fileID: 102900000, guid: d1314075daae9504ebfdb331b35daf66, type: 3}
+  - finalTimeText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
